@@ -1,0 +1,9 @@
+
+ html{
+    box-sizing: border-box;  /* to prevent horizotal scrolling of the page use: */
+  }
+
+  body{
+    margin: 0%;
+    min-height: 100vh;  /* Hight of entire window screen theuser is using (View point hight) */
+  }
